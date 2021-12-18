@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NBC Home</title>
-    <link>/</link>
+    <link>https://DMXMax.github.io/testorg.github.io/</link>
     <description>Recent content on NBC Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 18:57:26 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Dec 2021 18:57:26 -0800</lastBuildDate><atom:link href="https://DMXMax.github.io/testorg.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post1</title>
-      <link>/about-us/post1/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/about-us/post1/</link>
       <pubDate>Mon, 06 Dec 2021 18:57:26 -0800</pubDate>
       
-      <guid>/about-us/post1/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/about-us/post1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ISC2 North Bay Chapter Virtual Bi-Monthly Event – Nov 2, 2021</title>
-      <link>/meetings/20211102_meeting/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/20211102_meeting/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/20211102_meeting/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/20211102_meeting/</guid>
       <description>&lt;p&gt;Location: Virtual Zoom Meeting&lt;/p&gt;
 &lt;p&gt;Meeting Date: Tuesday, November 2, 2021&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rethinking Security - Cloud Security Focus (Learn How To)</title>
-      <link>/meetings/20210923_meeting/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/20210923_meeting/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/20210923_meeting/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/20210923_meeting/</guid>
       <description>&lt;p&gt;Location: Virtual Zoom Meeting&lt;/p&gt;
 &lt;p&gt;Date: Sep 23, 2021 06:00 PM Pacific Time (US and Canada).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>How to Implement a Simple, Effective Security Program, Part 1: Encryption -- an essential element of Data Protection</title>
-      <link>/meetings/20210819_meeting/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/20210819_meeting/</link>
       <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/20210819_meeting/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/20210819_meeting/</guid>
       <description>&lt;p&gt;Location: Virtual Zoom Meeting&lt;/p&gt;
 &lt;p&gt;Meeting Date: Tuesday, August 19, 2021&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>December 2020 Virtual North Bay Chapter Mentorship Event</title>
-      <link>/meetings/20201210_meeting/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/20201210_meeting/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/20201210_meeting/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/20201210_meeting/</guid>
       <description>&lt;p&gt;Location: Virtual Zoom Meeting&lt;/p&gt;
 &lt;p&gt;Meeting Date: Thursday, December 10, 2020&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>November 2020 Virtual North Bay Chapter Mentorship Event</title>
-      <link>/meetings/20201119_meeting/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/20201119_meeting/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/20201119_meeting/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/20201119_meeting/</guid>
       <description>&lt;p&gt;Location: Virtual Zoom Meeting&lt;/p&gt;
 &lt;p&gt;Meeting Date: Thursday, November  19, 2020&lt;/p&gt;
 &lt;p&gt;Start/End Times: 6pm PST – 7:30pm PST&lt;/p&gt;</description>
@@ -69,10 +69,10 @@
     
     <item>
       <title>October 2020 Virtual North Bay Chapter Members Monthly Meeting</title>
-      <link>/meetings/20201029_meeting/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/20201029_meeting/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/20201029_meeting/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/20201029_meeting/</guid>
       <description>&lt;p&gt;Location: Virtual Zoom Meeting&lt;/p&gt;
 &lt;p&gt;Meeting Date: Thursday, October 29, 2020&lt;/p&gt;
 &lt;p&gt;Start/End Times: 6pm PST – 7pm PST&lt;/p&gt;</description>
@@ -80,10 +80,10 @@
     
     <item>
       <title>September 2020 Virtual North Bay Chapter Event</title>
-      <link>/meetings/20200924_meeting/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/20200924_meeting/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/20200924_meeting/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/20200924_meeting/</guid>
       <description>&lt;p&gt;Location: Virtual Zoom Meeting&lt;/p&gt;
 &lt;p&gt;Meeting Date: Thursday September 24, 2020&lt;/p&gt;
 &lt;p&gt;Start/End Times: 6pm PST – 7pm PST&lt;/p&gt;</description>
@@ -91,39 +91,39 @@
     
     <item>
       <title>August 2020 Virtual North Bay Chapter Start-up Meeting</title>
-      <link>/meetings/20200806_meeting/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/20200806_meeting/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/20200806_meeting/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/20200806_meeting/</guid>
       <description>&lt;p&gt;Location: Virtual Zoom Meeting&lt;/p&gt;
 &lt;p&gt;Meeting Date: Thursday August 6, 2020&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Not the Title You Thought</title>
-      <link>/posts/spf13-vim-3-0-release-and-new-website/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/posts/spf13-vim-3-0-release-and-new-website/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/posts/spf13-vim-3-0-release-and-new-website/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/posts/spf13-vim-3-0-release-and-new-website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Membership</title>
-      <link>/membership/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/membership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/membership/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/membership/</guid>
       <description>Chapter Membership Our members consist of (ISC)² credentialed professionals who hold either an SSCP, CAP, CSSLP and/or a CISSP or advanced concentration certification as well as non-credentialed professionals who have an interest in learning and practicing cybersecurity and information technology.
 Our chapter program is focused on skills development to help our members learn specific skill sets in order to develop and add value to their work and progress on their career path.</description>
     </item>
     
     <item>
       <title>Mock Tech Interviews</title>
-      <link>/meetings/events/techmock/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/events/techmock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/events/techmock/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/events/techmock/</guid>
       <description>Tech Mock Interview Practice job interview with ISC2 NBC security professional interviewers from top companies and receive feedback on your performance.
 How Does it Work?
   Submit a request here
@@ -133,10 +133,10 @@ How Does it Work?
     
     <item>
       <title>Sponsors</title>
-      <link>/sponsors/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sponsors/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/sponsors/</guid>
       <description>None Yet.</description>
     </item>
     

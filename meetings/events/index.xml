@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on NBC Home</title>
-    <link>/meetings/events/</link>
+    <link>https://DMXMax.github.io/testorg.github.io/meetings/events/</link>
     <description>Recent content in Events on NBC Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/meetings/events/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://DMXMax.github.io/testorg.github.io/meetings/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mock Tech Interviews</title>
-      <link>/meetings/events/techmock/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/meetings/events/techmock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/meetings/events/techmock/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/meetings/events/techmock/</guid>
       <description>Tech Mock Interview Practice job interview with ISC2 NBC security professional interviewers from top companies and receive feedback on your performance.
 How Does it Work?
   Submit a request here

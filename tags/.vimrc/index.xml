@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>.vimrc on NBC Home</title>
-    <link>/tags/.vimrc/</link>
+    <link>https://DMXMax.github.io/testorg.github.io/tags/.vimrc/</link>
     <description>Recent content in .vimrc on NBC Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="/tags/.vimrc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://DMXMax.github.io/testorg.github.io/tags/.vimrc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>/about-us/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/about-us/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/about-us/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/about-us/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not the Title You Thought</title>
-      <link>/posts/spf13-vim-3-0-release-and-new-website/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/posts/spf13-vim-3-0-release-and-new-website/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/posts/spf13-vim-3-0-release-and-new-website/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/posts/spf13-vim-3-0-release-and-new-website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spf13-vim 3.0 release and new website</title>
-      <link>/about-us/glen_clarkson/</link>
+      <link>https://DMXMax.github.io/testorg.github.io/about-us/glen_clarkson/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/about-us/glen_clarkson/</guid>
+      <guid>https://DMXMax.github.io/testorg.github.io/about-us/glen_clarkson/</guid>
       <description></description>
     </item>
     
