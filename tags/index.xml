@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NBC Home</title>
-    <link>https://DMXMax.github.io/testorg.github.io/tags/</link>
+    <link>https://dmxmax.github.io/testsite/tags/</link>
     <description>Recent content in Tags on NBC Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://DMXMax.github.io/testorg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://dmxmax.github.io/testsite/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.vimrc</title>
-      <link>https://DMXMax.github.io/testorg.github.io/tags/.vimrc/</link>
+      <link>https://dmxmax.github.io/testsite/tags/.vimrc/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://DMXMax.github.io/testorg.github.io/tags/.vimrc/</guid>
+      <guid>https://dmxmax.github.io/testsite/tags/.vimrc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plugins</title>
-      <link>https://DMXMax.github.io/testorg.github.io/tags/plugins/</link>
+      <link>https://dmxmax.github.io/testsite/tags/plugins/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://DMXMax.github.io/testorg.github.io/tags/plugins/</guid>
+      <guid>https://dmxmax.github.io/testsite/tags/plugins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spf13-vim</title>
-      <link>https://DMXMax.github.io/testorg.github.io/tags/spf13-vim/</link>
+      <link>https://dmxmax.github.io/testsite/tags/spf13-vim/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://DMXMax.github.io/testorg.github.io/tags/spf13-vim/</guid>
+      <guid>https://dmxmax.github.io/testsite/tags/spf13-vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vim</title>
-      <link>https://DMXMax.github.io/testorg.github.io/tags/vim/</link>
+      <link>https://dmxmax.github.io/testsite/tags/vim/</link>
       <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://DMXMax.github.io/testorg.github.io/tags/vim/</guid>
+      <guid>https://dmxmax.github.io/testsite/tags/vim/</guid>
       <description></description>
     </item>
     

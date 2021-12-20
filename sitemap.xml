@@ -2,83 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://DMXMax.github.io/testorg.github.io/</loc>
-    <lastmod>2021-12-06T18:57:26-08:00</lastmod>
-  </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/about-us/post1/</loc>
-    <lastmod>2021-12-06T18:57:26-08:00</lastmod>
-  </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/20211102_meeting/</loc>
+    <loc>https://dmxmax.github.io/testsite/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/20211102_meeting/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/20210923_meeting/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/</loc>
+    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dmxmax.github.io/testsite/meetings/20210923_meeting/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/20210819_meeting/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/20210819_meeting/</loc>
     <lastmod>2021-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/20201210_meeting/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/20201210_meeting/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/20201119_meeting/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/20201119_meeting/</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/20201029_meeting/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/20201029_meeting/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/20200924_meeting/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/20200924_meeting/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/20200806_meeting/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/20200806_meeting/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/posts/</loc>
+    <loc>https://dmxmax.github.io/testsite/posts/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/tags/.vimrc/</loc>
+    <loc>https://dmxmax.github.io/testsite/tags/.vimrc/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/about-us/</loc>
+    <loc>https://dmxmax.github.io/testsite/about-us/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/categories/</loc>
+    <loc>https://dmxmax.github.io/testsite/categories/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/categories/development/</loc>
+    <loc>https://dmxmax.github.io/testsite/categories/development/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/posts/spf13-vim-3-0-release-and-new-website/</loc>
+    <loc>https://dmxmax.github.io/testsite/posts/spf13-vim-3-0-release-and-new-website/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/tags/plugins/</loc>
+    <loc>https://dmxmax.github.io/testsite/tags/plugins/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/tags/spf13-vim/</loc>
+    <loc>https://dmxmax.github.io/testsite/tags/spf13-vim/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/about-us/glen_clarkson/</loc>
+    <loc>https://dmxmax.github.io/testsite/about-us/glen_clarkson/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/tags/</loc>
+    <loc>https://dmxmax.github.io/testsite/tags/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/categories/vim/</loc>
+    <loc>https://dmxmax.github.io/testsite/categories/vim/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/tags/vim/</loc>
+    <loc>https://dmxmax.github.io/testsite/tags/vim/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/events/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/events/</loc>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/job/</loc>
+    <loc>https://dmxmax.github.io/testsite/job/</loc>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/membership/</loc>
+    <loc>https://dmxmax.github.io/testsite/membership/</loc>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/meetings/events/techmock/</loc>
+    <loc>https://dmxmax.github.io/testsite/meetings/events/techmock/</loc>
   </url><url>
-    <loc>https://DMXMax.github.io/testorg.github.io/sponsors/</loc>
+    <loc>https://dmxmax.github.io/testsite/sponsors/</loc>
   </url>
 </urlset>
