@@ -38,9 +38,6 @@
     <loc>https://dmxmax.github.io/testsite/tags/.vimrc/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmxmax.github.io/testsite/about-us/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dmxmax.github.io/testsite/categories/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,9 +51,6 @@
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dmxmax.github.io/testsite/tags/spf13-vim/</loc>
-    <lastmod>2012-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dmxmax.github.io/testsite/about-us/glen_clarkson/</loc>
     <lastmod>2012-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dmxmax.github.io/testsite/tags/</loc>
@@ -75,6 +69,8 @@
     <loc>https://dmxmax.github.io/testsite/membership/</loc>
   </url><url>
     <loc>https://dmxmax.github.io/testsite/meetings/events/techmock/</loc>
+  </url><url>
+    <loc>https://dmxmax.github.io/testsite/about-us/</loc>
   </url><url>
     <loc>https://dmxmax.github.io/testsite/sponsors/</loc>
   </url>
